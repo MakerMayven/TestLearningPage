@@ -4,7 +4,14 @@
 **Introduction to 3D printing**
 3D printing is a manufacturing process where successive layers of material are laid down on top of each other in an additive process.
 
-The 3D printing process was devised in the 1980s and originally known as ‘rapid prototyping’. It enabled companies to develop prototypes quickly and more accurately than with other methods. After over 30 years of innovation, its uses are far more diverse today.
+The 3D printing process was devised in the 1980s and originally known as ‘rapid prototyping’. It enabled companies to develop prototypes quickly and more accurately than with other methods. After over 30 years of innovation, its uses are far more diverse today.  
+
+
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Carrara marble quarry" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/2e1901628c074bfe86b8a233d8d35200/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/carrara-marble-quarry-2e1901628c074bfe86b8a233d8d35200?utm_medium=embed&utm_campaign=share-popup&utm_content=2e1901628c074bfe86b8a233d8d35200" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Carrara marble quarry </a> by <a href="https://sketchfab.com/FUD-UJEP?utm_medium=embed&utm_campaign=share-popup&utm_content=2e1901628c074bfe86b8a233d8d35200" target="_blank" style="font-weight: bold; color: #1CAAD9;"> FUD-UJEP </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=2e1901628c074bfe86b8a233d8d35200" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>  
+
+
+
 
 Manufacturers, engineers, designers, educators, medics, and hobbyists alike use the technology for a huge range of applications.
 
